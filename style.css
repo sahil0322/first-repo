@@ -99,6 +99,7 @@ footer {
   padding: 3.5rem;
   height: 600px;
   width: auto;
+ 
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -156,9 +157,10 @@ footer {
 
 
 .back-to-top {
-  position: absolute;
-  right: 30px;
+   position: relative;
+  right: 2px;
   bottom: 20px;
+  top: 460px;
   padding: 10px 15px;
   font-size: 1.2rem;
   background-color: #ffb400;
